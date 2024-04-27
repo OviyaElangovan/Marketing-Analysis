@@ -42,3 +42,7 @@ NumWebVisitsMonth: Number of visits to company’s website in the last month
 
 ## Target
 Need to perform clustering to summarize customer segments.
+
+## Snapshot
+![image](https://github.com/OviyaElangovan/Marketing-Analysis/assets/159682136/971155f8-785e-4f67-bc5e-feab9020e455)
+
